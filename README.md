@@ -3,7 +3,7 @@ This is a React web template designed to display personal portfolio and resume f
 
 ***ReactJS: A library created by Facebook. It is used to build UI components that create the user interface of the single page web application***
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Getting Started with Create React App
 
